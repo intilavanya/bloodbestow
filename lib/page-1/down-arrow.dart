@@ -13,11 +13,11 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // downarrow1gb (4:451)
+        // downarrowJXq (4:451)
         width: double.infinity,
         height: 133.26*fem,
         child: Image.asset(
-          'assets/page-1/images/down-arrow-Rbd.png',
+          'assets/page-1/images/down-arrow.png',
           width: 224.89*fem,
           height: 133.26*fem,
         ),

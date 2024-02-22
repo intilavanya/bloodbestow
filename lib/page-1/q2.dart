@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // q2bqH (2:388)
+        // q29zP (2:388)
         width: double.infinity,
         height: 800*fem,
         decoration: BoxDecoration (
@@ -23,7 +23,7 @@ class Scene extends StatelessWidget {
         child: Stack(
           children: [
             Positioned(
-              // carbondotmark7od (2:389)
+              // carbondotmarks9h (2:389)
               left: 0*fem,
               top: 0*fem,
               child: Container(
@@ -32,7 +32,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // 3BV (2:390)
+              // CBy (2:390)
               left: 163*fem,
               top: 41*fem,
               child: Align(
@@ -53,7 +53,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // ellipse1vWB (2:391)
+              // ellipse1fLT (2:391)
               left: 0*fem,
               top: 0*fem,
               child: Align(
@@ -61,7 +61,7 @@ class Scene extends StatelessWidget {
                   width: 573.51*fem,
                   height: 301.85*fem,
                   child: Image.asset(
-                    'assets/page-1/images/ellipse-1-6eb.png',
+                    'assets/page-1/images/ellipse-1-vBH.png',
                     width: 573.51*fem,
                     height: 301.85*fem,
                   ),
@@ -69,7 +69,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // rectangle62p7 (2:392)
+              // rectangle6Mj5 (2:392)
               left: 30*fem,
               top: 164*fem,
               child: Align(
@@ -114,7 +114,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group180NWb (2:394)
+              // group1806aB (2:394)
               left: 56*fem,
               top: 281*fem,
               child: Container(
@@ -124,18 +124,18 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // vectorUpX (2:396)
+                      // vectorcYX (2:396)
                       margin: EdgeInsets.fromLTRB(0*fem, 2*fem, 7*fem, 0*fem),
                       width: 7*fem,
                       height: 7*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-5RZ.png',
+                        'assets/page-1/images/vector-61m.png',
                         width: 7*fem,
                         height: 7*fem,
                       ),
                     ),
                     Text(
-                      // transmittablediseasePgb (2:395)
+                      // transmittabledisease8Ws (2:395)
                       'Transmittable disease',
                       style: SafeGoogleFont (
                         'Lexend',
@@ -150,7 +150,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group181XH1 (2:397)
+              // group181fFu (2:397)
               left: 56*fem,
               top: 302*fem,
               child: Container(
@@ -160,18 +160,18 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // vectorTAf (2:399)
+                      // vectorzJB (2:399)
                       margin: EdgeInsets.fromLTRB(0*fem, 2*fem, 3*fem, 0*fem),
                       width: 7*fem,
                       height: 7*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-G3q.png',
+                        'assets/page-1/images/vector-Nf9.png',
                         width: 7*fem,
                         height: 7*fem,
                       ),
                     ),
                     Text(
-                      // asthamaZjV (2:398)
+                      // asthamaJZm (2:398)
                       ' Asthama',
                       style: SafeGoogleFont (
                         'Lexend',
@@ -186,7 +186,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group182WPq (2:400)
+              // group182e7q (2:400)
               left: 56*fem,
               top: 323*fem,
               child: Container(
@@ -196,18 +196,18 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // vector2sy (2:402)
+                      // vectorx8X (2:402)
                       margin: EdgeInsets.fromLTRB(0*fem, 2*fem, 3*fem, 0*fem),
                       width: 7*fem,
                       height: 7*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-XBm.png',
+                        'assets/page-1/images/vector-ccX.png',
                         width: 7*fem,
                         height: 7*fem,
                       ),
                     ),
                     Text(
-                      // cardiacarrestm4s (2:401)
+                      // cardiacarrestg4X (2:401)
                       ' Cardiac arrest',
                       style: SafeGoogleFont (
                         'Lexend',
@@ -222,7 +222,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group183J4o (2:403)
+              // group183cD5 (2:403)
               left: 56*fem,
               top: 344*fem,
               child: Container(
@@ -232,18 +232,18 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // vectorDxT (2:405)
+                      // vectorjHh (2:405)
                       margin: EdgeInsets.fromLTRB(0*fem, 2*fem, 3*fem, 0*fem),
                       width: 7*fem,
                       height: 7*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-9Z1.png',
+                        'assets/page-1/images/vector-9pK.png',
                         width: 7*fem,
                         height: 7*fem,
                       ),
                     ),
                     Text(
-                      // hypertensionLnB (2:404)
+                      // hypertensionevT (2:404)
                       ' Hypertension',
                       style: SafeGoogleFont (
                         'Lexend',
@@ -258,7 +258,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group1845Dy (2:406)
+              // group184bKu (2:406)
               left: 56*fem,
               top: 365*fem,
               child: Container(
@@ -268,18 +268,18 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // vectorbCK (2:408)
+                      // vectorK11 (2:408)
                       margin: EdgeInsets.fromLTRB(0*fem, 2*fem, 7*fem, 0*fem),
                       width: 7*fem,
                       height: 7*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-eyu.png',
+                        'assets/page-1/images/vector-qrF.png',
                         width: 7*fem,
                         height: 7*fem,
                       ),
                     ),
                     Text(
-                      // bloodpressureJcX (2:407)
+                      // bloodpressure2w1 (2:407)
                       'Blood pressure',
                       style: SafeGoogleFont (
                         'Lexend',
@@ -294,7 +294,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group185r8F (2:409)
+              // group185sAw (2:409)
               left: 56*fem,
               top: 386*fem,
               child: Container(
@@ -304,18 +304,18 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // vectormm1 (2:411)
+                      // vectorBSX (2:411)
                       margin: EdgeInsets.fromLTRB(0*fem, 2*fem, 8*fem, 0*fem),
                       width: 7*fem,
                       height: 7*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-tzK.png',
+                        'assets/page-1/images/vector-4to.png',
                         width: 7*fem,
                         height: 7*fem,
                       ),
                     ),
                     Text(
-                      // diabetesWCo (2:410)
+                      // diabetestbq (2:410)
                       'Diabetes',
                       style: SafeGoogleFont (
                         'Lexend',
@@ -330,7 +330,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group186T83 (2:412)
+              // group186Rrf (2:412)
               left: 56*fem,
               top: 407*fem,
               child: Container(
@@ -340,18 +340,18 @@ class Scene extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
                     Container(
-                      // vectorz7y (2:414)
+                      // vectorZCB (2:414)
                       margin: EdgeInsets.fromLTRB(0*fem, 2*fem, 8*fem, 0*fem),
                       width: 7*fem,
                       height: 7*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-LTy.png',
+                        'assets/page-1/images/vector-aZd.png',
                         width: 7*fem,
                         height: 7*fem,
                       ),
                     ),
                     Text(
-                      // cancerJPZ (2:413)
+                      // cancerToM (2:413)
                       'Cancer',
                       style: SafeGoogleFont (
                         'Lexend',
@@ -366,7 +366,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group18936F (2:415)
+              // group189ocK (2:415)
               left: 275*fem,
               top: 24*fem,
               child: TextButton(
@@ -385,12 +385,12 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   child: Center(
-                    // vectorJns (2:417)
+                    // vectorrqV (2:417)
                     child: SizedBox(
                       width: 13.12*fem,
                       height: 23.34*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-1MR.png',
+                        'assets/page-1/images/vector-q9y.png',
                         width: 13.12*fem,
                         height: 23.34*fem,
                       ),
@@ -400,7 +400,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group190SeB (2:418)
+              // group190bHH (2:418)
               left: 22*fem,
               top: 24*fem,
               child: TextButton(
@@ -419,12 +419,12 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   child: Center(
-                    // vector7EX (2:420)
+                    // vectorGeK (2:420)
                     child: SizedBox(
                       width: 13.12*fem,
                       height: 23.34*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-Co9.png',
+                        'assets/page-1/images/vector-noh.png',
                         width: 13.12*fem,
                         height: 23.34*fem,
                       ),
@@ -434,7 +434,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // nodyZ (2:421)
+              // nobwV (2:421)
               left: 58*fem,
               top: 542*fem,
               child: TextButton(
@@ -466,7 +466,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // yesfHy (2:422)
+              // yesSx7 (2:422)
               left: 59*fem,
               top: 447*fem,
               child: TextButton(
@@ -498,7 +498,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group194WZV (2:423)
+              // group1946Fy (2:423)
               left: 216*fem,
               top: 633*fem,
               child: Container(
@@ -509,7 +509,7 @@ class Scene extends StatelessWidget {
                   color: Color(0xffffffff),
                 ),
                 child: Container(
-                  // group1ccX (2:425)
+                  // group1oAP (2:425)
                   padding: EdgeInsets.fromLTRB(0*fem, 0*fem, 1.03*fem, 0*fem),
                   width: double.infinity,
                   height: double.infinity,
@@ -517,7 +517,7 @@ class Scene extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       Container(
-                        // skip9cT (2:426)
+                        // skipXMH (2:426)
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 3.28*fem, 0*fem),
                         child: Text(
                           'Skip ',
@@ -531,12 +531,12 @@ class Scene extends StatelessWidget {
                         ),
                       ),
                       Container(
-                        // biarrowdownGSB (2:427)
+                        // biarrowdownEmV (2:427)
                         margin: EdgeInsets.fromLTRB(0*fem, 4.92*fem, 0*fem, 0*fem),
                         width: 14.38*fem,
                         height: 8.96*fem,
                         child: Image.asset(
-                          'assets/page-1/images/bi-arrow-down.png',
+                          'assets/page-1/images/bi-arrow-down-MZH.png',
                           width: 14.38*fem,
                           height: 8.96*fem,
                         ),

@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: TextButton(
-        // splashscreen5Pm (2:377)
+        // splashscreenpE3 (2:377)
         onPressed: () {},
         style: TextButton.styleFrom (
           padding: EdgeInsets.zero,
@@ -36,7 +36,7 @@ class Scene extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Container(
-                // logo11XmZ (2:382)
+                // logo11fVZ (2:382)
                 margin: EdgeInsets.fromLTRB(9*fem, 0*fem, 0*fem, 137.69*fem),
                 child: TextButton(
                   onPressed: () {},
@@ -47,18 +47,18 @@ class Scene extends StatelessWidget {
                     width: 305*fem,
                     height: 290*fem,
                     child: Image.asset(
-                      'assets/page-1/images/logo-1-1-kw1.png',
+                      'assets/page-1/images/logo-1-1-vw9.png',
                       fit: BoxFit.cover,
                     ),
                   ),
                 ),
               ),
               Container(
-                // wavesq1Z (2:378)
+                // wavesmHh (2:378)
                 width: 1614.72*fem,
                 height: 229.13*fem,
                 child: Image.asset(
-                  'assets/page-1/images/waves-H1y.png',
+                  'assets/page-1/images/waves.png',
                   width: 1614.72*fem,
                   height: 229.13*fem,
                 ),

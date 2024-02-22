@@ -7,13 +7,13 @@ import 'package:myapp/utils.dart';
 class Scene extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    double baseWidth = 1613;
+    double baseWidth = 1504;
     double fem = MediaQuery.of(context).size.width / baseWidth;
     double ffem = fem * 0.97;
     return Container(
       width: double.infinity,
       child: Container(
-        // requestpagepsH (4:899)
+        // notificationhKM (4:900)
         width: double.infinity,
         height: 244*fem,
         decoration: BoxDecoration (
@@ -21,7 +21,7 @@ class Scene extends StatelessWidget {
         ),
         child: Center(
           child: Text(
-            'REQUEST PAGE',
+            'NOTIFICATION',
             style: SafeGoogleFont (
               'Montserrat',
               fontSize: 200*ffem,

@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // donorsignupDAf (4:409)
+        // donorsignupryV (4:409)
         padding: EdgeInsets.fromLTRB(17*fem, 28*fem, 30*fem, 381.31*fem),
         width: double.infinity,
         decoration: BoxDecoration (
@@ -24,7 +24,7 @@ class Scene extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Container(
-              // createadonoraccountW9m (4:410)
+              // createadonoraccountL7y (4:410)
               margin: EdgeInsets.fromLTRB(7*fem, 0*fem, 0*fem, 17*fem),
               child: Text(
                 'Create A Donor Account',
@@ -38,7 +38,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // nameofthedonornsy (4:411)
+              // nameofthedonorEDM (4:411)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 34*fem),
               child: Text(
                 'Name of the Donor',
@@ -52,7 +52,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // line1uBu (4:414)
+              // line1LnB (4:414)
               margin: EdgeInsets.fromLTRB(2*fem, 0*fem, 0*fem, 23.5*fem),
               width: 311*fem,
               height: 1.5*fem,
@@ -61,7 +61,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // bloodgroupofthedonorddh (4:442)
+              // bloodgroupofthedonorfpT (4:442)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 34*fem),
               child: Text(
                 'Blood Group of the Donor',
@@ -75,7 +75,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // line8jRq (4:443)
+              // line8yq9 (4:443)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 21.5*fem),
               width: 311*fem,
               height: 1.5*fem,
@@ -84,7 +84,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // submitthereportsfaP (4:444)
+              // submitthereportsi23 (4:444)
               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 15.81*fem),
               child: Text(
                 'submit the Reports',
@@ -98,14 +98,14 @@ class Scene extends StatelessWidget {
               ),
             ),
             Container(
-              // autogroupace1BHq (DrwaEbYPREiPAVgFQ5aCe1)
+              // autogroupace11mq (DrwaEbYPREiPAVgFQ5aCe1)
               margin: EdgeInsets.fromLTRB(2*fem, 0*fem, 0*fem, 75*fem),
               width: 301*fem,
               height: 32.19*fem,
               child: Stack(
                 children: [
                   Positioned(
-                    // bieyeh1H (4:434)
+                    // bieyeWyV (4:434)
                     left: 285*fem,
                     top: 0*fem,
                     child: Align(
@@ -113,7 +113,7 @@ class Scene extends StatelessWidget {
                         width: 16*fem,
                         height: 9.56*fem,
                         child: Image.asset(
-                          'assets/page-1/images/bi-eye.png',
+                          'assets/page-1/images/bi-eye-XcK.png',
                           width: 16*fem,
                           height: 9.56*fem,
                         ),
@@ -121,7 +121,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // rectangle108oa7 (4:449)
+                    // rectangle108D7D (4:449)
                     left: 0*fem,
                     top: 0.1875*fem,
                     child: Align(
@@ -139,7 +139,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // uploadreportsJFy (4:450)
+                    // uploadreportsJuM (4:450)
                     left: 16*fem,
                     top: 9.1875*fem,
                     child: Align(
@@ -161,7 +161,7 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    // vectorzPh (4:456)
+                    // vectorCjq (4:456)
                     left: 258*fem,
                     top: 16.1875*fem,
                     child: Align(
@@ -169,7 +169,7 @@ class Scene extends StatelessWidget {
                         width: 10*fem,
                         height: 5*fem,
                         child: Image.asset(
-                          'assets/page-1/images/vector-wyh.png',
+                          'assets/page-1/images/vector-NJT.png',
                           width: 10*fem,
                           height: 5*fem,
                         ),
@@ -180,7 +180,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             TextButton(
-              // group2tzs (4:421)
+              // group2uu9 (4:421)
               onPressed: () {},
               style: TextButton.styleFrom (
                 padding: EdgeInsets.zero,
@@ -195,7 +195,7 @@ class Scene extends StatelessWidget {
                   borderRadius: BorderRadius.circular(50*fem),
                 ),
                 child: Container(
-                  // frame5ZLK (4:423)
+                  // frame5nxw (4:423)
                   width: double.infinity,
                   height: double.infinity,
                   decoration: BoxDecoration (

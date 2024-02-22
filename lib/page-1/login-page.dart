@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // loginpagex4f (2:320)
+        // loginpage6JT (2:320)
         width: double.infinity,
         height: 800*fem,
         decoration: BoxDecoration (
@@ -23,7 +23,7 @@ class Scene extends StatelessWidget {
         child: Stack(
           children: [
             Positioned(
-              // autogroupygnqD91 (DrwXW6GAPyxK4qosbdYgnq)
+              // autogroupygnqKKd (DrwXW6GAPyxK4qosbdYgnq)
               left: 79*fem,
               top: 649*fem,
               child: Container(
@@ -32,7 +32,7 @@ class Scene extends StatelessWidget {
                 child: Stack(
                   children: [
                     Positioned(
-                      // rectangle46Co (2:321)
+                      // rectangle4jPM (2:321)
                       left: 89*fem,
                       top: 0*fem,
                       child: Align(
@@ -54,7 +54,7 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Positioned(
-                      // donthaveanaccountsignupm43 (2:326)
+                      // donthaveanaccountsignupo8K (2:326)
                       left: 0*fem,
                       top: 4*fem,
                       child: Align(
@@ -102,7 +102,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // welcomebackZvw (2:322)
+              // welcomebackN8o (2:322)
               left: 24*fem,
               top: 100*fem,
               child: Align(
@@ -123,7 +123,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // emailphonenumberexP (2:323)
+              // emailphonenumberRsm (2:323)
               left: 24*fem,
               top: 168*fem,
               child: Align(
@@ -144,7 +144,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // password8Mm (2:324)
+              // passwordu2F (2:324)
               left: 24*fem,
               top: 250*fem,
               child: Align(
@@ -165,7 +165,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // forgotpasswordbm9 (2:325)
+              // forgotpasswordPi7 (2:325)
               left: 235*fem,
               top: 330*fem,
               child: Align(
@@ -186,7 +186,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // line1ezK (2:327)
+              // line1TT5 (2:327)
               left: 23.9871520996*fem,
               top: 221*fem,
               child: Align(
@@ -202,7 +202,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // line2ZbV (2:328)
+              // line2mTm (2:328)
               left: 24*fem,
               top: 297*fem,
               child: Align(
@@ -218,7 +218,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // autogroupcrru543 (DrwXGgUqi6uQYNcqy2cRru)
+              // autogroupcrrufp3 (DrwXGgUqi6uQYNcqy2cRru)
               left: 23.999206543*fem,
               top: 489*fem,
               child: Container(
@@ -227,7 +227,7 @@ class Scene extends StatelessWidget {
                 child: Stack(
                   children: [
                     Positioned(
-                      // line3amV (2:329)
+                      // line3zLX (2:329)
                       left: 0*fem,
                       top: 12.5*fem,
                       child: Align(
@@ -243,7 +243,7 @@ class Scene extends StatelessWidget {
                       ),
                     ),
                     Positioned(
-                      // frame6W9M (2:334)
+                      // frame67AF (2:334)
                       left: 143.000793457*fem,
                       top: 0*fem,
                       child: Container(
@@ -272,7 +272,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group2wEf (2:330)
+              // group2LYo (2:330)
               left: 25.3372497559*fem,
               top: 381.0944824219*fem,
               child: Container(
@@ -285,7 +285,7 @@ class Scene extends StatelessWidget {
                   borderRadius: BorderRadius.circular(50*fem),
                 ),
                 child: Container(
-                  // frame5PsM (2:332)
+                  // frame5C5D (2:332)
                   padding: EdgeInsets.fromLTRB(1*fem, 0*fem, 0*fem, 0*fem),
                   width: double.infinity,
                   height: double.infinity,
@@ -307,7 +307,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // image2GgF (2:336)
+              // image2rvT (2:336)
               left: 64*fem,
               top: 547*fem,
               child: Align(
@@ -315,13 +315,13 @@ class Scene extends StatelessWidget {
                   width: 233*fem,
                   height: 56*fem,
                   child: Image.asset(
-                    'assets/page-1/images/image-2-4AT.png',
+                    'assets/page-1/images/image-2.png',
                   ),
                 ),
               ),
             ),
             Positioned(
-              // bieyeZfM (2:337)
+              // bieyemnX (2:337)
               left: 307*fem,
               top: 274.8125*fem,
               child: Align(
@@ -329,7 +329,7 @@ class Scene extends StatelessWidget {
                   width: 16*fem,
                   height: 9.56*fem,
                   child: Image.asset(
-                    'assets/page-1/images/bi-eye-CLF.png',
+                    'assets/page-1/images/bi-eye.png',
                     width: 16*fem,
                     height: 9.56*fem,
                   ),

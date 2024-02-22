@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // q4CXy (2:448)
+        // q43eF (2:448)
         width: double.infinity,
         height: 800*fem,
         decoration: BoxDecoration (
@@ -23,7 +23,7 @@ class Scene extends StatelessWidget {
         child: Stack(
           children: [
             Positioned(
-              // WoZ (2:449)
+              // Ais (2:449)
               left: 162*fem,
               top: 41*fem,
               child: Align(
@@ -44,7 +44,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // ellipse1Q8F (2:450)
+              // ellipse1FVR (2:450)
               left: 0*fem,
               top: 0*fem,
               child: Align(
@@ -52,7 +52,7 @@ class Scene extends StatelessWidget {
                   width: 573.51*fem,
                   height: 301.85*fem,
                   child: Image.asset(
-                    'assets/page-1/images/ellipse-1.png',
+                    'assets/page-1/images/ellipse-1-Vq9.png',
                     width: 573.51*fem,
                     height: 301.85*fem,
                   ),
@@ -60,7 +60,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // rectangle6Wwy (2:451)
+              // rectangle6AMV (2:451)
               left: 30*fem,
               top: 164*fem,
               child: Align(
@@ -105,7 +105,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group190H5Z (2:453)
+              // group190j3D (2:453)
               left: 22*fem,
               top: 24*fem,
               child: TextButton(
@@ -124,12 +124,12 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   child: Center(
-                    // vector9dZ (2:455)
+                    // vectorQ9M (2:455)
                     child: SizedBox(
                       width: 13.12*fem,
                       height: 23.34*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-nF1.png',
+                        'assets/page-1/images/vector-WqD.png',
                         width: 13.12*fem,
                         height: 23.34*fem,
                       ),
@@ -139,7 +139,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // rectangle28t5M (2:458)
+              // rectangle28XDy (2:458)
               left: 275*fem,
               top: 24*fem,
               child: Align(
@@ -158,7 +158,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // nomuq (2:459)
+              // nocmD (2:459)
               left: 59*fem,
               top: 415*fem,
               child: TextButton(
@@ -190,7 +190,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // yesDmq (2:460)
+              // yesSkF (2:460)
               left: 60*fem,
               top: 320*fem,
               child: TextButton(
@@ -222,7 +222,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group194s5h (2:461)
+              // group194Hks (2:461)
               left: 218*fem,
               top: 633*fem,
               child: Container(
@@ -233,7 +233,7 @@ class Scene extends StatelessWidget {
                   color: Color(0xffffffff),
                 ),
                 child: Container(
-                  // group1Lzs (2:463)
+                  // group1BrF (2:463)
                   padding: EdgeInsets.fromLTRB(0*fem, 0*fem, 1.03*fem, 0*fem),
                   width: double.infinity,
                   height: double.infinity,
@@ -241,7 +241,7 @@ class Scene extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       Container(
-                        // skip4vs (2:464)
+                        // skipv39 (2:464)
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 3.28*fem, 0*fem),
                         child: Text(
                           'Skip ',
@@ -255,12 +255,12 @@ class Scene extends StatelessWidget {
                         ),
                       ),
                       Container(
-                        // biarrowdownNwZ (2:465)
+                        // biarrowdownpeK (2:465)
                         margin: EdgeInsets.fromLTRB(0*fem, 4.92*fem, 0*fem, 0*fem),
                         width: 14.38*fem,
                         height: 8.96*fem,
                         child: Image.asset(
-                          'assets/page-1/images/bi-arrow-down-s8j.png',
+                          'assets/page-1/images/bi-arrow-down.png',
                           width: 14.38*fem,
                           height: 8.96*fem,
                         ),

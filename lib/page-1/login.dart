@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // loginj1H (4:895)
+        // loginbJw (4:895)
         width: double.infinity,
         height: 244*fem,
         decoration: BoxDecoration (
@@ -21,7 +21,7 @@ class Scene extends StatelessWidget {
         ),
         child: Center(
           child: Text(
-            'LOGlll',
+            'LOGIN',
             style: SafeGoogleFont (
               'Montserrat',
               fontSize: 200*ffem,

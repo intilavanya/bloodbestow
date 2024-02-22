@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // q1atX (2:467)
+        // q1FKd (2:467)
         width: double.infinity,
         height: 800*fem,
         decoration: BoxDecoration (
@@ -23,7 +23,7 @@ class Scene extends StatelessWidget {
         child: Stack(
           children: [
             Positioned(
-              // ufu (2:468)
+              // Nf9 (2:468)
               left: 163*fem,
               top: 41*fem,
               child: Align(
@@ -44,7 +44,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // ellipse1p2B (2:469)
+              // ellipse1TRh (2:469)
               left: 0*fem,
               top: 0*fem,
               child: Align(
@@ -52,7 +52,7 @@ class Scene extends StatelessWidget {
                   width: 573.51*fem,
                   height: 301.85*fem,
                   child: Image.asset(
-                    'assets/page-1/images/ellipse-1-9Rh.png',
+                    'assets/page-1/images/ellipse-1.png',
                     width: 573.51*fem,
                     height: 301.85*fem,
                   ),
@@ -60,7 +60,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // rectangle6XBV (2:470)
+              // rectangle6y99 (2:470)
               left: 30*fem,
               top: 164*fem,
               child: Align(
@@ -90,7 +90,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // isyourweightlessthan50kgbh9 (2:471)
+              // isyourweightlessthan50kgqx3 (2:471)
               left: 47*fem,
               top: 208*fem,
               child: Align(
@@ -111,7 +111,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group187HK5 (2:472)
+              // group187j1q (2:472)
               left: 275*fem,
               top: 24*fem,
               child: TextButton(
@@ -130,12 +130,12 @@ class Scene extends StatelessWidget {
                     ),
                   ),
                   child: Center(
-                    // vectorMZq (2:474)
+                    // vectorywm (2:474)
                     child: SizedBox(
                       width: 13.12*fem,
                       height: 23.34*fem,
                       child: Image.asset(
-                        'assets/page-1/images/vector-rkX.png',
+                        'assets/page-1/images/vector-zVu.png',
                         width: 13.12*fem,
                         height: 23.34*fem,
                       ),
@@ -145,7 +145,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group188UuM (2:475)
+              // group1887HH (2:475)
               left: 22*fem,
               top: 24*fem,
               child: Container(
@@ -159,12 +159,12 @@ class Scene extends StatelessWidget {
                   ),
                 ),
                 child: Center(
-                  // vectorxpX (2:477)
+                  // vectorzrs (2:477)
                   child: SizedBox(
                     width: 13.12*fem,
                     height: 23.34*fem,
                     child: Image.asset(
-                      'assets/page-1/images/vector-bWo.png',
+                      'assets/page-1/images/vector-sxB.png',
                       width: 13.12*fem,
                       height: 23.34*fem,
                     ),
@@ -173,7 +173,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // noHro (2:478)
+              // nojZZ (2:478)
               left: 59*fem,
               top: 389*fem,
               child: TextButton(
@@ -205,7 +205,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // yesjTu (2:479)
+              // yesBgT (2:479)
               left: 59*fem,
               top: 294*fem,
               child: TextButton(
@@ -237,7 +237,7 @@ class Scene extends StatelessWidget {
               ),
             ),
             Positioned(
-              // group194nSB (2:480)
+              // group194pzK (2:480)
               left: 217*fem,
               top: 633*fem,
               child: Container(
@@ -248,7 +248,7 @@ class Scene extends StatelessWidget {
                   color: Color(0xffffffff),
                 ),
                 child: Container(
-                  // group1Upo (2:482)
+                  // group1KRH (2:482)
                   padding: EdgeInsets.fromLTRB(0*fem, 0*fem, 1.03*fem, 0*fem),
                   width: double.infinity,
                   height: double.infinity,
@@ -256,7 +256,7 @@ class Scene extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       Container(
-                        // skipb8j (2:483)
+                        // skip36P (2:483)
                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 3.28*fem, 0*fem),
                         child: Text(
                           'Skip ',
@@ -270,12 +270,12 @@ class Scene extends StatelessWidget {
                         ),
                       ),
                       Container(
-                        // biarrowdown6LP (2:484)
+                        // biarrowdownkmV (2:484)
                         margin: EdgeInsets.fromLTRB(0*fem, 4.92*fem, 0*fem, 0*fem),
                         width: 14.38*fem,
                         height: 8.96*fem,
                         child: Image.asset(
-                          'assets/page-1/images/bi-arrow-down-nC7.png',
+                          'assets/page-1/images/bi-arrow-down-SzB.png',
                           width: 14.38*fem,
                           height: 8.96*fem,
                         ),

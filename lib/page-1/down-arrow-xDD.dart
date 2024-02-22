@@ -7,29 +7,19 @@ import 'package:myapp/utils.dart';
 class Scene extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    double baseWidth = 1613;
+    double baseWidth = 224.8874053955;
     double fem = MediaQuery.of(context).size.width / baseWidth;
     double ffem = fem * 0.97;
     return Container(
       width: double.infinity,
       child: Container(
-        // requestpageG39 (4:897)
+        // downarrowLDd (4:453)
         width: double.infinity,
-        height: 244*fem,
-        decoration: BoxDecoration (
-          color: Color(0xffffffff),
-        ),
-        child: Center(
-          child: Text(
-            'REQUEST PAGE',
-            style: SafeGoogleFont (
-              'Montserrat',
-              fontSize: 200*ffem,
-              fontWeight: FontWeight.w600,
-              height: 1.2175*ffem/fem,
-              color: Color(0xffffffff),
-            ),
-          ),
+        height: 133.26*fem,
+        child: Image.asset(
+          'assets/page-1/images/down-arrow-X8K.png',
+          width: 224.89*fem,
+          height: 133.26*fem,
         ),
       ),
           );

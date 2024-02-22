@@ -13,7 +13,7 @@ class Scene extends StatelessWidget {
     return Container(
       width: double.infinity,
       child: Container(
-        // interfaceqR1 (4:901)
+        // interface78B (4:901)
         width: double.infinity,
         height: 488*fem,
         decoration: BoxDecoration (

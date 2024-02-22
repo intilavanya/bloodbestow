@@ -7,19 +7,29 @@ import 'package:myapp/utils.dart';
 class Scene extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    double baseWidth = 426.6666564941;
+    double baseWidth = 1613;
     double fem = MediaQuery.of(context).size.width / baseWidth;
     double ffem = fem * 0.97;
     return Container(
       width: double.infinity,
       child: Container(
-        // vectorKV9 (4:902)
+        // requestpageK3u (4:899)
         width: double.infinity,
-        height: 426.67*fem,
-        child: Image.asset(
-          'assets/page-1/images/vector-tH5.png',
-          width: 426.67*fem,
-          height: 426.67*fem,
+        height: 244*fem,
+        decoration: BoxDecoration (
+          color: Color(0xffffffff),
+        ),
+        child: Center(
+          child: Text(
+            'REQUEST PAGE',
+            style: SafeGoogleFont (
+              'Montserrat',
+              fontSize: 200*ffem,
+              fontWeight: FontWeight.w600,
+              height: 1.2175*ffem/fem,
+              color: Color(0xffffffff),
+            ),
+          ),
         ),
       ),
           );
