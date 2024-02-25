@@ -10,9 +10,6 @@ A new Flutter project.
 <img width="227" alt="Screenshot 2024-02-22 134112" src="https://github.com/intilavanya/blood1/assets/142288117/d09a6dbb-fa56-4a0c-a890-968687773995">
 
 
-<img width="215" alt="Screenshot 2024-02-25 152934" src="https://github.com/intilavanya/blood1/assets/142288117/e0576b63-9efa-432f-a8a0-ba42c305535a">
-
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
