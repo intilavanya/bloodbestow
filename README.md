@@ -3,8 +3,15 @@
 A new Flutter project.
 
 ## Getting Started
-<img width="227" alt="Screenshot 2024-02-22 134112" src="https://github.com/intilavanya/blood1/assets/1422<img width="219" alt="Screenshot 2024-02-25 152919" src="https://github.com/intilavanya/blood1/assets/142288117/82335844-4b9a-4dfd-abb8-f5da181c3a65">
-88117/1db569e0-f6f0-4cdc-80f7-daad07b38f81">
+<img width="219" alt="Screenshot 2024-02-25 152919" src="https://github.com/intilavanya/blood1/assets/142288117/bd4c1dde-d61d-4c4f-a1b2-99dad428274c">
+
+
+<img width="215" alt="Screenshot 2024-02-25 152934" src="https://github.com/intilavanya/blood1/assets/142288117/55ce3cb8-a872-43f3-bdf7-de1a0eacb261">
+<img width="227" alt="Screenshot 2024-02-22 134112" src="https://github.com/intilavanya/blood1/assets/142288117/d09a6dbb-fa56-4a0c-a890-968687773995">
+
+
+<img width="215" alt="Screenshot 2024-02-25 152934" src="https://github.com/intilavanya/blood1/assets/142288117/e0576b63-9efa-432f-a8a0-ba42c305535a">
+
 
 This project is a starting point for a Flutter application.
 
